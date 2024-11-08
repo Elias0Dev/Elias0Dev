@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola!!! soy Elias </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&width=435&lines=Ingeniero+en+Inform%C3%A1tica%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Amante+de+Datos+y+el+Analisis%F0%9F%A5%B0;Desarrollador+de+Soluciones+Digitales+%E2%9A%99;Creador+de+Mini+Soluciones+digitales%F0%9F%91%8C" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00EAD3&center=true&width=550&height=100&lines=Ingeniero+en+Inform%C3%A1tica+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Amante+de+los+Datos+y+el+An%C3%A1lisis+%F0%9F%94%8D;Desarrollador+de+Soluciones+Digitales+%E2%9A%99;Creador+de+Mini+Soluciones+Digitales+%F0%9F%92%A1" alt="Typing SVG" /></a>
 </p>
 
 
